@@ -34,7 +34,7 @@ def insert_row():
     cursor.close()
     conn.close()
 
-    print("Inserted 5 rows")
+    print("Inserted  rows")
 
 if __name__ == "__main__":
     insert_row()
