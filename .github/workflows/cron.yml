@@ -2,7 +2,7 @@ name: Insert Row
 
 on:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '*/100 * * * *'
   workflow_dispatch:
 
 jobs:
